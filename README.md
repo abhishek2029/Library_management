@@ -12,4 +12,4 @@ Download the project in one folder and the open the terminal.
 
 #II - Run
 
-Once the database is set up, you can run the project from your terminal by running Main.py file. 
+Once the database is set up, you can run the project from your terminal by running Main.py file by using the following command : Python3 Main.py
