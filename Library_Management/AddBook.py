@@ -48,7 +48,7 @@ def addBook():
 
     Canvas1 = Canvas(root)
     
-    Canvas1.config(bg="#41449c")
+    Canvas1.config(bg="#8e91f5")
     Canvas1.pack(expand=True,fill=BOTH)
         
     headingFrame1 = Frame(root,bg="#FFBB00",bd=1)
