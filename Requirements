@@ -1,5 +1,6 @@
-You'll need the following : 
+You'll need to have the following installed :
 
+Anaconda
 Tkinter
 Pillow
 Pymysql
